@@ -52,7 +52,6 @@ C:\Users\Juan Carlos Florez\source\repos\RENIEC\ServicioReniec\bin\roslyn\VBCSCo
 C:\Users\Juan Carlos Florez\source\repos\RENIEC\ServicioReniec\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Juan Carlos Florez\source\repos\RENIEC\ServicioReniec\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Juan Carlos Florez\source\repos\RENIEC\ServicioReniec\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Juan Carlos Florez\source\repos\RENIEC\ServicioReniec\obj\Debug\ServicioReniec.csproj.AssemblyReference.cache
 C:\Users\Juan Carlos Florez\source\repos\RENIEC\ServicioReniec\obj\Debug\ServicioReniec.csproj.CoreCompileInputs.cache
 C:\Users\Juan Carlos Florez\source\repos\RENIEC\ServicioReniec\obj\Debug\ServicioReniec.csproj.CopyComplete
 C:\Users\Juan Carlos Florez\source\repos\RENIEC\ServicioReniec\obj\Debug\ServicioReniec.dll

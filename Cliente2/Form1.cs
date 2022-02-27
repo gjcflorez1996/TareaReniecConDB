@@ -24,7 +24,7 @@ namespace Cliente2
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-            srReniecFrm.wsReniecSoapClient servicio = new srReniecFrm.wsReniecSoapClient();
+            srReniecForm.wsReniecSoapClient servicio = new srReniecForm.wsReniecSoapClient();
             DataSet ds = servicio.Buscar(textDni.Text.Trim());
             gvDatos.DataSource = ds.Tables[0];
             gvDatos.Refresh();

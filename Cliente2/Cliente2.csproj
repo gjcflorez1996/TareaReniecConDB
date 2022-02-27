@@ -48,7 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Connected Services\srReniecFrm\Reference.cs">
+    <Compile Include="Connected Services\srReniecForm\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
@@ -73,7 +73,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="Connected Services\srReniecFrm\wsReniec.wsdl" />
+    <None Include="Connected Services\srReniecForm\wsReniec.wsdl" />
     <None Include="Properties\DataSources\System.Data.DataSet.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -92,19 +92,19 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadataStorage Include="Connected Services\srReniecFrm\" />
+    <WCFMetadataStorage Include="Connected Services\srReniecForm\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\srReniecFrm\wsReniec.disco" />
+    <None Include="Connected Services\srReniecForm\wsReniec.disco" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\srReniecFrm\configuration91.svcinfo" />
+    <None Include="Connected Services\srReniecForm\configuration91.svcinfo" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\srReniecFrm\configuration.svcinfo" />
+    <None Include="Connected Services\srReniecForm\configuration.svcinfo" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\srReniecFrm\Reference.svcmap">
+    <None Include="Connected Services\srReniecForm\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>

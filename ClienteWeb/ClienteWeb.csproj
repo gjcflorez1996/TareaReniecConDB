@@ -108,10 +108,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
-    <None Include="Connected Services\srReniec\wsReniec.disco" />
-    <None Include="Connected Services\srReniec\configuration91.svcinfo" />
-    <None Include="Connected Services\srReniec\configuration.svcinfo" />
-    <None Include="Connected Services\srReniec\Reference.svcmap">
+    <None Include="Connected Services\srReniecWb\wsReniec.wsdl" />
+    <None Include="Connected Services\srReniecWb\wsReniec.disco" />
+    <None Include="Connected Services\srReniecWb\configuration91.svcinfo" />
+    <None Include="Connected Services\srReniecWb\configuration.svcinfo" />
+    <None Include="Connected Services\srReniecWb\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
@@ -134,7 +135,6 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
-    <None Include="Connected Services\srReniec\wsReniec.wsdl" />
     <Content Include="Properties\DataSources\System.Data.DataSet.datasource" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -181,7 +181,7 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Connected Services\srReniec\Reference.cs">
+    <Compile Include="Connected Services\srReniecWb\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
@@ -251,7 +251,7 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadataStorage Include="Connected Services\srReniec\" />
+    <WCFMetadataStorage Include="Connected Services\srReniecWb\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

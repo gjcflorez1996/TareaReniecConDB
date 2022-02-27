@@ -9,7 +9,7 @@ namespace ClienteWeb
 {
     public partial class frmReniec : System.Web.UI.Page
     {
-        srReniec.wsReniecSoapClient servicio = new srReniec.wsReniecSoapClient();
+        srReniecWb.wsReniecSoapClient servicio = new srReniecWb.wsReniecSoapClient();
 
         private void Listar()
         {
