@@ -1,0 +1,10 @@
+C:\Users\Juan Carlos Florez\source\repos\RENIEC\Cliente2\bin\Debug\Cliente2.exe.config
+C:\Users\Juan Carlos Florez\source\repos\RENIEC\Cliente2\bin\Debug\Cliente2.exe
+C:\Users\Juan Carlos Florez\source\repos\RENIEC\Cliente2\bin\Debug\Cliente2.pdb
+C:\Users\Juan Carlos Florez\source\repos\RENIEC\Cliente2\obj\Debug\Cliente2.csproj.AssemblyReference.cache
+C:\Users\Juan Carlos Florez\source\repos\RENIEC\Cliente2\obj\Debug\Cliente2.Form1.resources
+C:\Users\Juan Carlos Florez\source\repos\RENIEC\Cliente2\obj\Debug\Cliente2.Properties.Resources.resources
+C:\Users\Juan Carlos Florez\source\repos\RENIEC\Cliente2\obj\Debug\Cliente2.csproj.GenerateResource.cache
+C:\Users\Juan Carlos Florez\source\repos\RENIEC\Cliente2\obj\Debug\Cliente2.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos Florez\source\repos\RENIEC\Cliente2\obj\Debug\Cliente2.exe
+C:\Users\Juan Carlos Florez\source\repos\RENIEC\Cliente2\obj\Debug\Cliente2.pdb
